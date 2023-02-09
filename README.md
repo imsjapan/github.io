@@ -3,6 +3,9 @@
 IMS Final Release
 Spec Version 1.2
 
+2023年1月31日にCSV Binding 1.2.1が公開されたため、1EdTechサイトで1.2の仕様を参照することができなくなりました。
+そのため、この仕様は1.2で開発を続行される事業者様向用として公開しました。
+
 ## License
 Copyright and License
 
